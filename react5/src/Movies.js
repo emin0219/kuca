@@ -16,7 +16,8 @@ const customStyles = {
     padding: "0",
     display: "flex",
     justifyContent: "center",
-    alignItems: "center"
+    alignItems: "center",
+    borderRadius: "20px"
   },
   overlay: {
     position: "fixed",
